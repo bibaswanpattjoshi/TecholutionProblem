@@ -15,5 +15,8 @@ As per the input from User, i have collected the information and used a loop to 
 Step:5:-
 I have used  Dijkstra’s shortest path algorithm to search the shortest path
 
+Step 6:-
+The last element in the list gives you the information about the shortest path
+
 
 
